@@ -17,6 +17,7 @@ fdate = date.today().strftime('%d/%m/%Y')
 
 print(today.month)
 
+
 print("Today's current date is -", today)
 print("Today's current date is -", todaywithtime)
 

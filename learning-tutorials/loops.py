@@ -26,9 +26,13 @@
 
 
 ### Car game
-#
+
 # user_input = ""
 # started = False
+#
+# print("""start - to start the car
+# stop - to end the car
+# quit - to exit""")
 #
 # while True:
 #     user_input = input('> ').lower()
@@ -53,7 +57,7 @@
 #         break
 #     else:
 #         print("I don't understand that...")
-#
+
 
 
 ### Guess game
@@ -62,11 +66,11 @@
 # guess_limit = 3
 #
 # while guess_number < guess_limit:
-#     guess = int(input('Guess: '))
-#     guess_number += 1
-#     if guess == secret_number:
-#         print('You win!!!')
-#         break
+#  guess = int(input('Guess: '))
+#  guess_number += 1
+#  if guess == secret_number:
+#      print('You win!!!')
+#      break
 # else:
-#     print('You lost')
-#
+#  print('You lost')
+

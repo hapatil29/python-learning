@@ -50,7 +50,7 @@ print(STR.lower())
 print('******************************************')
 
 ## using eta1 ti test all if condition scenarios
-eta1 = timedelta(days=0)
+eta1 = timedelta(days=249)
 christmas = date(2020, 12, 25)
 date_today = date.today() + eta1
 
